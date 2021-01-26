@@ -53,8 +53,12 @@ Other than learning about software and web development, I like to:
   
   - Hiking. Similar feeling I have towards hiking as I do about travelling. Seeing and experiencing somewhere different.
   
-  - Piano. 
+  - Piano. An instrument I have always loved listening to but only began self-learning in the last few months and I love it.
   
-  - Calligraphy.
-
-
+  - Calligraphy. Also a new skill I have picked up since lockdown which I have surprised myself at how quickly I am picking up this craft.
+  
+  - Cook. Expanding my knowledge of delicious vegetarian and vegan recipes has always been a pleasure of mine. 
+  
+  - Read. Something I took up recently to try limit my screen time. I am almost finished the ASOIF series and already planning my next reads. 
+  
+  - Reddit. I read about world news, watch funny animal videos and learn from other programmers through this community of forums.
