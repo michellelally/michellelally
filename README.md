@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Languages and Tools:
+![java](https://icon-icons.com/icons2/159/PNG/32/java_22523.png)
+![csharp](https://icon-icons.com/icons2/2415/PNG/32/csharp_plain_logo_icon_146577.png)
+![python](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)
+![angular](https://icon-icons.com/icons2/2107/PNG/32/file_type_angular_icon_130754.png)
+![ionic](https://icon-icons.com/icons2/2107/PNG/32/file_type_ionic_icon_130522.png)
+
+
 
 
 - 🔭 I’m currently working on ...
