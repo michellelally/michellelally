@@ -32,6 +32,10 @@ Computing Fundamentals
 
 ### 🤔 I’m looking for help with ...
 
+React
+
+  - I have been seeing this JavaScript library popping up everywhere recently and I thought that based on my interest in Angular and after a bit of research into this technology and discovering it's supposedly easier to learn than Angular that I should give it a go so any advice on where to begin would be appreciated.   
+
 Apache Kafka
 
   - This event-streaming platform is amazing technology that I have recently become really interested in learning. I have been reading documentation and some Github repositories with projects based on Kafka and I look forward to recieving and advice or help that anyone may have for me to get started!
