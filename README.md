@@ -2,13 +2,10 @@
 
 ### Languages and Tools:
 ![java](https://icon-icons.com/icons2/159/PNG/32/java_22523.png)
-![csharp](https://icon-icons.com/icons2/2415/PNG/32/csharp_plain_logo_icon_146577.png)
-![python](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)
 ![angular](https://icon-icons.com/icons2/2107/PNG/32/file_type_angular_icon_130754.png)
 ![ionic](https://icon-icons.com/icons2/2107/PNG/32/file_type_ionic_icon_130522.png)
-
-
-
+![csharp](https://icon-icons.com/icons2/2415/PNG/32/csharp_plain_logo_icon_146577.png)
+![python](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)
 
 ### 🔭 I’m currently working on ...
 
@@ -16,9 +13,11 @@
 
   - Willow Works, an e-commerce website for a friend to advertise and sell their carpentry services based in Co. Limerick.
   
-  - Element Accupuncture, a place to be informed about the benefits of accupunture and book an appointment with a qualified specialist in Galway City.
-  
   - Online Art Gallery, showcasing an online exhibition of my friends amazing paintings to help her with gaining some recognition and possible sales.
+
+- Also working testing my mobile app development knowledge for a couple of passion projects I've always wanted to do! 
+
+   - Pick Your Poison, a cocktail picker application for a local bar using React Native
 
 ### 🌱 I’m currently learning ...
 
@@ -26,15 +25,18 @@ Angular
 
   - As part of my ongoing Udemy course in Angular, I am learning how to build a real e-commerce app with Angular, Firebase and Bootstrap. By the end of watching     the course, I'll be able to build real client apps with Angular, troubleshoot common compile-time and run-time errors, write clean and maintainable code like a professional and apply best practices when building Angular apps 
 
-Computing Fundamentals
+React
+
+DevOpsSec
 
   - I will also be completing modules in Object Oriented Software Engineering, Databases, Web Design and Client Side Scripting and Software Development as part of the evening course I'm enrolled to extend my knowledge on web development but also to refresh my memory on software development principles. 
+
 
 ### 🤔 I’m looking for help with ...
 
 React
 
-  - I have been seeing this JavaScript library popping up everywhere recently and I thought that based on my interest in Angular and after a bit of research into this technology and discovering it's supposedly easier to learn than Angular that I should give it a go so any advice on where to begin would be appreciated.   
+  - After seeing this JavaScript library popping up everywhere in job ads I thought that based on my interest in Angular and after a bit of research into this technology and discovering it's supposedly easier to learn than Angular that I should give it a go so any advice would be greatly appreciated.   
 
 Apache Kafka
 
@@ -63,6 +65,6 @@ Other than learning about software and web development, I like to:
   
   - Cook. Expanding my knowledge of delicious vegetarian and vegan recipes has always been a pleasure of mine. 
   
-  - Read. Something I took up recently to try limit my screen time. I am almost finished the ASOIF series and already planning my next reads. 
+  - Read. Something I took up recently to try limit my screen time. I'm almost finished the ASOIF series and already planning my next reads. 
   
   - Reddit. I read about world news, watch funny animal videos and learn from other programmers through this community of forums.
