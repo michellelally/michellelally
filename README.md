@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Languages and Tools:
+### Languages and Tools
 ![react](https://cdn.icon-icons.com/icons2/2108/PNG/32/react_icon_130845.png)
 ![html](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png)
 ![js](https://cdn.icon-icons.com/icons2/2415/PNG/32/javascript_original_logo_icon_146455.png)
