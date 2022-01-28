@@ -1,5 +1,9 @@
 # Hi there 👋
 
+- After studying Software Development for 4 years, I began to grow my web and app development skills for side projects by taking part in an evening course on Web Development which I completed in January '22.
+
+- Here are some languages and tools I have been working with along my development journey.
+
 ### Languages and Tools
 ![react](https://cdn.icon-icons.com/icons2/2108/PNG/32/react_icon_130845.png)
 ![html](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png)
@@ -11,16 +15,18 @@
 ![ionic](https://icon-icons.com/icons2/2107/PNG/32/file_type_ionic_icon_130522.png)
 ![csharp](https://icon-icons.com/icons2/2415/PNG/32/csharp_plain_logo_icon_146577.png)
 ![python](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)
+![bootstrap](https://cdn.icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_wordmark_logo_icon_146620.png)
+![tailwind](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_tailwind_icon_130128.png)
 
 ### 🔭 I’m currently working on
 
-- I'm looking to grow my web development skills for side projects by taking part in an evening course on Web Development.
 
   - Willow Works, an e-commerce website for a friend to advertise and sell their carpentry services based in Co. Limerick.
   
   - Ruby Productions, because why not have all of your best videographer work in an online portfolio! 
   
   - Online Art Gallery, showcasing an online exhibition of my friends amazing paintings to help her with gaining some recognition and possible sales.
+  
 
 - Also working testing my mobile app development knowledge for a couple of passion projects I've always wanted to do! 
 
@@ -30,10 +36,12 @@
 
 ### 🌱 I’m currently learning
 
-React
+React & React Native
 
-  - I have only began building React web applications a few months ago and I am thoroughly enjoying discovering what this JavaScript library is capable of. Having become very comfortable with using React.js, I plan on moving on to learning React Native in the coming weeks to build a native app based on an existing project.  
+  - I have only began building React web applications a few months ago and I am thoroughly enjoying discovering what this JavaScript library is capable of. Having become very comfortable with using React.js, I moved on to learning React Native in built a native app based on an previous project.  
 DevOpsSec
+
+DevOps
 
   - DevOps is a software development model which evolved to keep up with the ever changing ways of software delivery by implementing CI/CD practices. Using AWS CodeCommit, CodeBuild, CodeDeploy and CodePipeline to save developers the hassle manual coding tests and deploying and releasing a products.
 
@@ -44,13 +52,10 @@ Angular
 
 ### 🤔 I’m looking for help with
 
+
 Tensorflow 
 
   - My interest in this machine learning platform began a few years ago when I first began studying software development, and it has never left my mind. I'd love to build and train my own model so I was thinking of beginning with something similar to Hotdog or Not Hotdog, what do yoy think?
-
-React
-
-  - After seeing this JavaScript library popping up everywhere in job ads I thought that based on my interest in Angular and after a bit of research into this technology and discovering it's supposedly easier to learn than Angular that I should give it a go so any advice would be greatly appreciated.   
 
 Apache Kafka
 
@@ -73,11 +78,11 @@ Other than learning about software and web development, I like to:
   
   - Hiking. Similar feeling I have towards hiking as I do about travelling. Seeing and experiencing somewhere different.
   
-  - Piano. An instrument I have always loved listening to but only began self-learning in the last few months and I love it.
+  - Piano. An instrument I have always loved listening to but only began self-learning in the last few months and I am loving it.
   
   - Calligraphy. Also a new skill I have picked up since lockdown which I have surprised myself at how quickly I am picking up this craft.
   
-  - Cook. Expanding my knowledge of delicious vegetarian and vegan recipes has always been a pleasure of mine. 
+  - Cook. Expanding my knowledge of delicious vegan recipes has always been a pleasure of mine. 
   
   - Read. Something I took up recently to try limit my screen time. I'm almost finished the ASOIF series and already planning my next reads. 
   
