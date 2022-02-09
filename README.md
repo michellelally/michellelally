@@ -28,11 +28,11 @@
   - Online Art Gallery, showcasing an online exhibition of my friends amazing paintings to help her with gaining some recognition and possible sales.
   
 
-- Also working testing my mobile app development knowledge for a couple of passion projects I've always wanted to do! 
+- Also expanding my mobile app development knowledge by improving these projects I have worked on previously: 
 
-   - An interactive cocktail menu  for a local bar using React Native
+   - An interactive cocktail menu for a local bar using React Native
    
-   - Recommendation system in machine learning, image processing, object detection or something else ML related!
+   - A TensorFlow recommendation system to use in mobile applications
 
 ### 🌱 I’m currently learning
 
